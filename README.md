@@ -224,6 +224,3 @@ This project was created for educational purposes as part of a Coursera course.
 
 For questions or issues, please refer to the course materials or contact your instructor.
 
----
-
-**Built with AI assistance - November 2025**
